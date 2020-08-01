@@ -1,0 +1,1 @@
+Soy un archivo de lectura para entender el uso de el módulo fs (File System) de node.js
